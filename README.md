@@ -65,3 +65,7 @@ Highlights percentage of target achieved
 Displays how far each executive is from meeting targets
 
 Enables region-wise sales performance comparison
+
+## Dashboard Image
+
+![screenshot](
