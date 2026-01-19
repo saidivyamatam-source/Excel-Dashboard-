@@ -68,4 +68,4 @@ Enables region-wise sales performance comparison
 
 ## Dashboard Image
 
-![screenshot](
+![screenshot](https://github.com/saidivyamatam-source/Excel-Dashboard-/blob/main/image_2026-01-19_214857136.png)
